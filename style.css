@@ -9,12 +9,12 @@ kartu profil {
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */ 
   padding: 20px;
   background-color: blue;
-  border-radius: 15px; /* membuat sudur menjadi melengkung */ 
+  border-radius: 15px; /* membuat sudut menjadi melengkung */ 
   box shadow: O 4px 8px rgba(O,O,O,O.1): /* efek bayangan */  
   text-align: center;/* menengahkan semua teks di dalam kartu */ 
 } 
 
 .kartu profil img {
   width: 150px;  
-  border-radius: 50%;/* trik untuk membuat gambar persegi menjadi limgkaran sempurna */ 
+  border-radius: 50%;/* trik untuk membuat gambar persegi menjadi lingkaran sempurna */ 
 } 
